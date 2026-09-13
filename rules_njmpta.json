@@ -1,0 +1,62 @@
+{
+  "league": "New Jersey Men's Platform Tennis Association",
+  "updated": "September 9, 2022",
+  "source": "https://njflex.tenniscores.com/?mod=nndz-SkdQbGxQMD0%3D",
+  "sections": [
+    {
+      "id": "matchday", "title": "Match day", "icon": "calendar",
+      "summary": "Play on the scheduled day, report within 24 hours.",
+      "items": [
+        {"rule": "1", "title": "Scheduling and reporting", "text": "Matches are played on the scheduled day and scores are posted within 24 hours of completion. Default start times are 8:30–11:00 am on Saturdays and after 6:00 pm on weeknights. Both captains are responsible for reporting scores by the weekly deadline; unreported scores are posted as UNPLAYED.", "note": "Pre-plays are allowed only when there is no other option. Not having your best players available is not a reason to pre-play: if you can field eight, play on the scheduled night."},
+        {"rule": "3", "title": "Weather", "text": "Matches are played in all weather unless both teams consider court conditions hazardous. If the courts are unplayable before the visitors travel, the home team must call them first. The captains, not the league, decide whether to postpone; one captain must tell Rich Rein before the scheduled start time. Postponed matches must be played within 10 days.", "note": null},
+        {"rule": "8", "title": "Suspended matches and retirements", "text": "Once a match has started it may be suspended only for weather, and then continues under Rule 3. A team that cannot continue for any other reason (injury or otherwise) loses the match and is reported as retired.", "note": null}
+      ]
+    },
+    {
+      "id": "format", "title": "Format and scoring", "icon": "score",
+      "summary": "Best of three sets, 12-point tiebreak at 6–6.",
+      "items": [
+        {"rule": "5", "title": "Scoring", "text": "All matches are two out of three sets with regular scoring. At 6–6 a 12-point tiebreaker is played: first to 7 points, win by 2.", "note": null},
+        {"rule": "2", "title": "Order of play and defaults", "text": "Team matches are played top to bottom. If a team defaults a line, the default is taken at the fourth spot first, then the third, and so on.", "note": null}
+      ]
+    },
+    {
+      "id": "lineups", "title": "Lineups", "icon": "list",
+      "summary": "Strongest pair at the top, exchanged before the match.",
+      "items": [
+        {"rule": "7", "title": "Setting the lineup", "text": "Captains set lineups by their honest reading of strength: the club's strongest pair plays the A1 spot and the weakest plays the lowest spot, whether the club fields one team or eight. Captains within a club must coordinate.", "note": "Exchange of lineups: for Monday and Tuesday matches the away captain sends theirs 24 hours before the match and the home captain by noon on match day. For Saturday matches the away captain sends 24 hours before and the home captain by noon the day before."},
+        {"rule": "7", "title": "Stacking", "text": "Captains resolve any stacking concerns between themselves before the match. Once a match is played, no retroactive stacking complaints are expected; the league gets involved only as a last resort. Any stacking complaint must reach the board within 24 hours of the match.", "note": null}
+      ]
+    },
+    {
+      "id": "eligibility", "title": "Eligibility", "icon": "user",
+      "summary": "One club per season, one match per week.",
+      "items": [
+        {"rule": "4", "title": "One club", "text": "A player may play for only one club in a given season.", "note": null},
+        {"rule": "6", "title": "One match per week", "text": "A player who represents the club in a match for a given week may not play another match for the club in the same week, regardless of when it is played or which division it is in. If a player plays twice in one week, the club forfeits both matches.", "note": null}
+      ]
+    },
+    {
+      "id": "movement", "title": "Promotion and relegation", "icon": "arrows",
+      "summary": "How teams move between leagues at the end of each season.",
+      "table": [
+        {"league": "A", "up": "—", "down": "Bottom 2 teams drop to B"},
+        {"league": "B", "up": "Top 2 move up to A", "down": "8th and 9th drop to C; 10th (last) drops to D"},
+        {"league": "C", "up": "Top 2 move up to B", "down": "8th and 9th drop to D; 10th (last) drops to E"},
+        {"league": "D – M", "up": "1st moves up two leagues; 2nd and 3rd move up one", "down": "8th and 9th drop one league; 10th (last) drops two"},
+        {"league": "N", "up": "1st moves up two leagues; 2nd and 3rd move up one", "down": "9th and 10th drop to M"},
+        {"league": "O", "up": "1st moves up two leagues; 2nd and 3rd move up one", "down": "—"}
+      ],
+      "items": [],
+      "note": "The Board may change the movement rules at any time without notice."
+    },
+    {
+      "id": "tiebreakers", "title": "Standings tie-breakers", "icon": "trophy",
+      "summary": "Head-to-head sets, then the #1 pair, then a coin toss.",
+      "items": [
+        {"rule": "", "title": "Two teams tied", "text": "The team that won more sets in the head-to-head match finishes ahead. If sets were even, the team whose #1 pair won the head-to-head match finishes ahead.", "note": null},
+        {"rule": "", "title": "Three or more teams tied", "text": "Among the tied teams, the most sets won takes the higher place (or the fewest sets won takes the lower). Repeat until the order is settled or two teams remain, then use the two-team rule. If still unresolved, compare the records of the #1 pairs, then #2, #3 and #4. As a last resort the League Officers supervise a coin toss.", "note": "Accurate set scores matter: the tie-breaker depends on them."}
+      ]
+    }
+  ]
+}

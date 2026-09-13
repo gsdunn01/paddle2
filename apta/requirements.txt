@@ -1,0 +1,5 @@
+# cytoolz==0.11.2  #replaced with hand coded def merge()
+numpy==1.22.3
+pandas==1.4.2
+requests==2.27.1
+requests-cache==0.9.4
